@@ -1,0 +1,176 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lpstud.ocm" resolutions="1x" timestamp="1488237096444">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="140059949" ref="index"/>
+    <file name="nomq_index.css" crc="4149285394" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u447.php" crc="134520778" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="head.jpg" crc="140550106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle 8.png" crc="3986281863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ribbon.svg" crc="507634180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ribbon_poster_.png" crc="4122247141" ref="index"/>
+    <file name="bg_coltxt.svg" crc="3821299075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_coltxt_poster_.png" crc="244272594" ref="index"/>
+    <file name="framefull.svg" crc="412717033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="framefull_poster_.png" crc="283666787" ref="index"/>
+    <file name="call_ico.svg" crc="67626982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="call_ico_poster_.png" crc="425869080" ref="index"/>
+    <file name="management_ico.svg" crc="40521154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="management_ico_poster_.png" crc="160317050" ref="index"/>
+    <file name="brief_ico.svg" crc="410564523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brief_ico_poster_.png" crc="3989587568" ref="index"/>
+    <file name="check_ico.svg" crc="4058060361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check_ico_poster_.png" crc="3955136998" ref="index"/>
+    <file name="ruble_ico.svg" crc="3855619377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ruble_ico_poster_.png" crc="4171722757" ref="index"/>
+    <file name="create_ico.svg" crc="332951975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="create_ico_poster_.png" crc="19289799" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u450.png" crc="4292956905" ref="index"/>
+    <file name="u450-r.png" crc="4004674513" ref="index"/>
+    <file name="u450-m.png" crc="119103839" ref="index"/>
+    <file name="u450-fs.png" crc="3981146114" ref="index"/>
+    <file name="order_ico.svg" crc="4033821602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="order_ico_poster_.png" crc="42072022" ref="index"/>
+    <file name="idea_ico.svg" crc="177905312" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="idea_ico_poster_.png" crc="3987589154" ref="index"/>
+    <file name="footerbg.jpg" crc="125810154" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle 8-crop-u14116.png" crc="3845659035" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.svg" crc="12044950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype_poster_.png" crc="3873809652" ref="index"/>
+    <file name="whatsapp.svg" crc="382845641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp_poster_.png" crc="477509803" ref="index"/>
+    <file name="viber.svg" crc="4036386609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber_poster_.png" crc="4031075315" ref="index"/>
+    <file name="teegram.svg" crc="4138867635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teegram_poster_.png" crc="3947637321" ref="index"/>
+    <file name="u4502.png" crc="4292956905" ref="index"/>
+    <file name="u450-r2.png" crc="4004674513" ref="index"/>
+    <file name="u450-m2.png" crc="119103839" ref="index"/>
+    <file name="u450-fs2.png" crc="3981146114" ref="index"/>
+    <file name="rectangle 8-crop-u141162.png" crc="262059547" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4503.png" crc="4292956905" ref="index"/>
+    <file name="u450-r3.png" crc="4004674513" ref="index"/>
+    <file name="u450-m3.png" crc="119103839" ref="index"/>
+    <file name="u450-fs3.png" crc="3981146114" ref="index"/>
+    <file name="rectangle 8-crop-u141163.png" crc="3777851377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="62228826" seo="true" mt="1488236258107" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="439800644" seo="true" mt="1488237093667" redirect="true"/>
+</manifest>
